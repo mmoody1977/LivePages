@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="watch_by" label="Watch by" language="en" table="x_8899_live_pages_table_widget">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>watch_by</element>
+            <help/>
+            <hint/>
+            <label>Watch by</label>
+            <language>en</language>
+            <name>x_8899_live_pages_table_widget</name>
+            <plural>Watch by</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mmadmin</sys_created_by>
+            <sys_created_on>2020-02-28 19:31:00</sys_created_on>
+            <sys_id>7e0a16b8db5300101f95cd3f29961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Watch by</sys_name>
+            <sys_package display_value="Live Pages" source="x_8899_live_pages">5c08c23cdb1300101f95cd3f2996190b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Live Pages">5c08c23cdb1300101f95cd3f2996190b</sys_scope>
+            <sys_update_name>sys_documentation_x_8899_live_pages_table_widget_watch_by_en</sys_update_name>
+            <sys_updated_by>mmadmin</sys_updated_by>
+            <sys_updated_on>2020-02-28 19:31:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

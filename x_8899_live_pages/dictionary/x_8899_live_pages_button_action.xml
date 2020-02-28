@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Button Action" max_length="40" name="x_8899_live_pages_button_action" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Client script" max_length="8000" name="client_script" type="script"/>
+        <element default="&lt;input class=&quot;pull-right&quot; type=&quot;button&quot; value=&quot;{{someValue}}&quot; ng-click=&quot;c.someFunc()&quot;&gt;" label="HTML" max_length="65000" name="html" type="html_template"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element default="100" label="Order" max_length="40" name="order" type="string"/>
+        <element label="Roles" max_length="255" name="roles" type="user_roles"/>
+        <element label="Server script" max_length="40" name="server_script" type="string"/>
+        <element label="Table Widget" max_length="32" name="table_widget" reference="x_8899_live_pages_table_widget" type="reference"/>
+        <element label="Template" max_length="40" name="template" type="boolean"/>
+        <index name="index">
+            <element name="table_widget"/>
+        </index>
+    </element>
+</database>

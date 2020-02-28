@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Table Widget" max_length="40" name="x_8899_live_pages_table_widget" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element default="...additional notes" label="Comment placeholder" max_length="40" name="comment_placeholder" type="string"/>
+        <element label="Fields" max_length="40" name="fields" type="field_list"/>
+        <element dependent="table" dependent_on_field="table" label="Filter" max_length="4000" name="filter" type="conditions" use_dependent_field="true"/>
+        <element default="20" label="Items per page" max_length="40" name="items_per_page" type="integer"/>
+        <element label="Live page" max_length="32" name="live_page" reference="x_8899_live_pages_live_page" type="reference"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="100" label="Order" max_length="40" name="order" type="integer"/>
+        <element default="sys_created_on" label="Order by" max_length="80" name="order_by" type="field_name"/>
+        <element default="true" label="Order descending" max_length="40" name="order_descending" type="boolean"/>
+        <element default="10000" label="Record limit" max_length="40" name="record_limit" type="integer"/>
+        <element label="Show comment input" max_length="40" name="show_comment_input" type="boolean"/>
+        <element label="Show last message" max_length="40" name="show_last_message" type="boolean"/>
+        <element label="SP Widget" max_length="32" name="sp_widget" reference="sp_widget" type="reference"/>
+        <element label="Table" max_length="80" name="table" type="table_name"/>
+        <element choice="1" default="sys_created_on" label="Watch by" max_length="40" name="watch_by" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="live_page"/>
+        </index>
+        <index name="index2">
+            <element name="sp_widget"/>
+        </index>
+    </element>
+</database>

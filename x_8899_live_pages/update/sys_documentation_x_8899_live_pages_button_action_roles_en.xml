@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="roles" label="Roles" language="en" table="x_8899_live_pages_button_action">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>roles</element>
+            <help/>
+            <hint/>
+            <label>Roles</label>
+            <language>en</language>
+            <name>x_8899_live_pages_button_action</name>
+            <plural>Roles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mmadmin</sys_created_by>
+            <sys_created_on>2020-02-28 19:43:52</sys_created_on>
+            <sys_id>5ffc963cdb5300101f95cd3f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Roles</sys_name>
+            <sys_package display_value="Live Pages" source="x_8899_live_pages">5c08c23cdb1300101f95cd3f2996190b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Live Pages">5c08c23cdb1300101f95cd3f2996190b</sys_scope>
+            <sys_update_name>sys_documentation_x_8899_live_pages_button_action_roles_en</sys_update_name>
+            <sys_updated_by>mmadmin</sys_updated_by>
+            <sys_updated_on>2020-02-28 19:43:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

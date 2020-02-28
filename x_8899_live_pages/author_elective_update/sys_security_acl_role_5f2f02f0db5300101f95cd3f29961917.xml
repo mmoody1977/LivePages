@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>mmadmin</sys_created_by>
+        <sys_created_on>2020-02-28 18:43:31</sys_created_on>
+        <sys_id>5f2f02f0db5300101f95cd3f29961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_8899_live_pages.live_page_admin</sys_name>
+        <sys_package display_value="Live Pages" source="x_8899_live_pages">5c08c23cdb1300101f95cd3f2996190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Live Pages">5c08c23cdb1300101f95cd3f2996190b</sys_scope>
+        <sys_security_acl display_value="">d72f02f0db5300101f95cd3f29961917</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5f2f02f0db5300101f95cd3f29961917</sys_update_name>
+        <sys_updated_by>mmadmin</sys_updated_by>
+        <sys_updated_on>2020-02-28 18:43:31</sys_updated_on>
+        <sys_user_role display_value="x_8899_live_pages.live_page_admin" name="x_8899_live_pages.live_page_admin">45684a70db1300101f95cd3f2996192e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Live Pages">5c08c23cdb1300101f95cd3f2996190b</application>
+        <file_path/>
+        <instance_id>0959fb61dbcdb7444d2bac44d4961919</instance_id>
+        <instance_name>dev83741</instance_name>
+        <name>sys_security_acl_role_5f2f02f0db5300101f95cd3f29961917</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>mmadmin</sys_created_by><sys_created_on>2020-02-28 18:43:31</sys_created_on><sys_id>5f2f02f0db5300101f95cd3f29961917</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_8899_live_pages.live_page_admin</sys_name><sys_package display_value="Live Pages" source="x_8899_live_pages">5c08c23cdb1300101f95cd3f2996190b</sys_package><sys_policy/><sys_scope display_value="Live Pages">5c08c23cdb1300101f95cd3f2996190b</sys_scope><sys_security_acl display_value="">d72f02f0db5300101f95cd3f29961917</sys_security_acl><sys_update_name>sys_security_acl_role_5f2f02f0db5300101f95cd3f29961917</sys_update_name><sys_updated_by>mmadmin</sys_updated_by><sys_updated_on>2020-02-28 18:43:31</sys_updated_on><sys_user_role display_value="x_8899_live_pages.live_page_admin" name="x_8899_live_pages.live_page_admin">45684a70db1300101f95cd3f2996192e</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>399566745</payload_hash>
+        <record_name>.x_8899_live_pages.live_page_admin</record_name>
+        <reverted_from/>
+        <source>ce4b4efcdb1300101f95cd3f2996199b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mmadmin</sys_created_by>
+        <sys_created_on>2020-02-28 18:43:31</sys_created_on>
+        <sys_id>972f02f0db5300101f95cd3f2996191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1708d1c5c690000001</sys_recorded_at>
+        <sys_updated_by>mmadmin</sys_updated_by>
+        <sys_updated_on>2020-02-28 18:43:31</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>df2f02f0e3530010de84b39065bcd119</update_guid>
+        <update_guid_history>df2f02f0e3530010de84b39065bcd119:399566745</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_8899_live_pages.live_page_admin">644f8eb0db5300101f95cd3f29961923</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mmadmin</sys_created_by>
+        <sys_created_on>2020-02-28 18:43:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2d3182d262244eba8a20ba4d6e97e489</sys_id>
+        <sys_metadata>5f2f02f0db5300101f95cd3f29961917</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_8899_live_pages.live_page_admin</sys_name>
+        <sys_package display_value="Live Pages" source="x_8899_live_pages">5c08c23cdb1300101f95cd3f2996190b</sys_package>
+        <sys_parent display_value="x_8899_live_pages_live_page">d72f02f0db5300101f95cd3f29961917</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Live Pages">5c08c23cdb1300101f95cd3f2996190b</sys_scope>
+        <sys_scope_delete display_value="">2f3206cc033e4ed69060d13993a66ba4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_5f2f02f0db5300101f95cd3f29961917</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_5f2f02f0db5300101f95cd3f29961917">972f02f0db5300101f95cd3f2996191a</sys_update_version>
+        <sys_updated_by>mmadmin</sys_updated_by>
+        <sys_updated_on>2020-02-28 18:43:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

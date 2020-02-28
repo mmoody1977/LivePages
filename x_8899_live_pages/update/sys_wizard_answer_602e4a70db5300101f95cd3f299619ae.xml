@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Pages</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Pages</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">f40688232f3200100b810ecd2c99b6f0</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>mmadmin</sys_created_by>
+        <sys_created_on>2020-02-28 18:38:58</sys_created_on>
+        <sys_id>602e4a70db5300101f95cd3f299619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pages</sys_name>
+        <sys_package display_value="Live Pages" source="x_8899_live_pages">5c08c23cdb1300101f95cd3f2996190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Live Pages">5c08c23cdb1300101f95cd3f2996190b</sys_scope>
+        <sys_update_name>sys_wizard_answer_602e4a70db5300101f95cd3f299619ae</sys_update_name>
+        <sys_updated_by>mmadmin</sys_updated_by>
+        <sys_updated_on>2020-02-28 18:38:58</sys_updated_on>
+        <table/>
+        <target_url>x_8899_live_pages_live_page.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

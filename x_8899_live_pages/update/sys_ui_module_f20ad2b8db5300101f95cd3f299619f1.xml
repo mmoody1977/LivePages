@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Live Pages">682e4a70db5300101f95cd3f29961987</application>
+        <filter/>
+        <name>Table Widgets</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_8899_live_pages.page_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>mmadmin</sys_created_by>
+        <sys_created_on>2020-02-28 19:30:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f20ad2b8db5300101f95cd3f299619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Table Widgets</sys_name>
+        <sys_package display_value="Live Pages" source="x_8899_live_pages">5c08c23cdb1300101f95cd3f2996190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Live Pages">5c08c23cdb1300101f95cd3f2996190b</sys_scope>
+        <sys_update_name>sys_ui_module_f20ad2b8db5300101f95cd3f299619f1</sys_update_name>
+        <sys_updated_by>mmadmin</sys_updated_by>
+        <sys_updated_on>2020-02-28 19:30:59</sys_updated_on>
+        <table>x_8899_live_pages_table_widget</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

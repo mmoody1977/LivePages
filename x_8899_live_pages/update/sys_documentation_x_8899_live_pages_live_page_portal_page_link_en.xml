@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="portal_page_link" label="Portal page link" language="en" table="x_8899_live_pages_live_page">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>portal_page_link</element>
+            <help/>
+            <hint/>
+            <label>Portal page link</label>
+            <language>en</language>
+            <name>x_8899_live_pages_live_page</name>
+            <plural>Portal page links</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mmadmin</sys_created_by>
+            <sys_created_on>2020-02-28 18:38:58</sys_created_on>
+            <sys_id>282e4a70db5300101f95cd3f299619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Portal page link</sys_name>
+            <sys_package display_value="Live Pages" source="x_8899_live_pages">5c08c23cdb1300101f95cd3f2996190b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Live Pages">5c08c23cdb1300101f95cd3f2996190b</sys_scope>
+            <sys_update_name>sys_documentation_x_8899_live_pages_live_page_portal_page_link_en</sys_update_name>
+            <sys_updated_by>mmadmin</sys_updated_by>
+            <sys_updated_on>2020-02-28 18:38:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
